@@ -1,2 +1,2 @@
 # CarisUtils
-Python development using Caris API.
+Python development using Caris API and Caris Batch Utility.
